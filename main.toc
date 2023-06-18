@@ -1,0 +1,41 @@
+\contentsline {chapter}{前言}{3}{chapter*.1}%
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}单层感知机}{11}{chapter.1}%
+\contentsline {section}{\numberline {1.1}单个神经元的结构}{11}{section.1.1}%
+\contentsline {section}{\numberline {1.2}激活函数}{13}{section.1.2}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}神经网络}{15}{chapter.2}%
+\contentsline {section}{\numberline {2.1}不同激活函数的表现}{15}{section.2.1}%
+\contentsline {section}{\numberline {2.2}正向传播}{17}{section.2.2}%
+\contentsline {section}{\numberline {2.3}梯度下降和反向传播}{20}{section.2.3}%
+\contentsline {section}{\numberline {2.4}梯度爆炸和梯度消失现象}{23}{section.2.4}%
+\contentsline {section}{\numberline {2.5}神经网络代码实现}{24}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}现有框架实现神经网络}{25}{subsection.2.5.1}%
+\contentsline {subsubsection}{回归/拟合任务}{25}{subsubsection*.6}%
+\contentsline {subsubsection}{分类任务}{27}{subsubsection*.7}%
+\contentsline {subsection}{\numberline {2.5.2}从零开始手写神经网络}{29}{subsection.2.5.2}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}机器学习效果评估}{39}{chapter.3}%
+\contentsline {section}{\numberline {3.1}一般情况}{39}{section.3.1}%
+\contentsline {section}{\numberline {3.2}损失曲线剧烈震荡}{40}{section.3.2}%
+\contentsline {section}{\numberline {3.3}确定基准}{40}{section.3.3}%
+\contentsline {section}{\numberline {3.4}过拟合和欠拟合}{41}{section.3.4}%
+\contentsline {section}{\numberline {3.5}调整图像}{41}{section.3.5}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}模型改进技术}{43}{chapter.4}%
+\contentsline {section}{\numberline {4.1}批量归一化}{43}{section.4.1}%
+\contentsline {section}{\numberline {4.2}dropout}{45}{section.4.2}%
+\contentsline {section}{\numberline {4.3}残差连接}{46}{section.4.3}%
+\contentsline {subsubsection}{代码构建}{47}{subsubsection*.8}%
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}磨练技术的途径}{49}{chapter.5}%
+\contentsline {section}{\numberline {5.1}kaggle竞赛}{49}{section.5.1}%
+\contentsline {section}{\numberline {5.2}数学建模国赛}{50}{section.5.2}%
+\contentsline {section}{\numberline {5.3}自己练习}{51}{section.5.3}%
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}其他机器学习技术}{53}{chapter.6}%
+\contentsline {section}{\numberline {6.1}深度学习}{53}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}计算机视觉}{53}{subsection.6.1.1}%
+\contentsline {subsubsection}{卷积神经网络}{53}{subsubsection*.9}%
+\contentsline {subsubsection}{生成对抗神经网络}{54}{subsubsection*.10}%
+\contentsline {subsection}{\numberline {6.1.2}自然语言处理}{55}{subsection.6.1.2}%
+\contentsline {subsubsection}{循环神经网络}{55}{subsubsection*.11}%
+\contentsline {subsubsection}{注意力机制}{56}{subsubsection*.12}%
+\contentsline {subsection}{\numberline {6.1.3}其他模型}{56}{subsection.6.1.3}%
+\contentsline {subsubsection}{自动编码器}{56}{subsubsection*.13}%
+\contentsline {section}{\numberline {6.2}强化学习}{57}{section.6.2}%
+\contentsline {chapter}{\numberline {第七章\hspace {.3em}}后记}{59}{chapter.7}%
