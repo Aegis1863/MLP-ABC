@@ -4,10 +4,10 @@
 \contentsline {section}{\numberline {1.2}激活函数}{13}{section.1.2}%
 \contentsline {chapter}{\numberline {第二章\hspace {.3em}}神经网络}{15}{chapter.2}%
 \contentsline {section}{\numberline {2.1}不同激活函数的表现}{15}{section.2.1}%
-\contentsline {section}{\numberline {2.2}正向传播}{17}{section.2.2}%
+\contentsline {section}{\numberline {2.2}正向传播}{18}{section.2.2}%
 \contentsline {section}{\numberline {2.3}梯度下降和反向传播}{20}{section.2.3}%
 \contentsline {section}{\numberline {2.4}梯度爆炸和梯度消失现象}{23}{section.2.4}%
-\contentsline {section}{\numberline {2.5}神经网络代码实现}{24}{section.2.5}%
+\contentsline {section}{\numberline {2.5}神经网络代码实现}{25}{section.2.5}%
 \contentsline {subsection}{\numberline {2.5.1}现有框架实现神经网络}{25}{subsection.2.5.1}%
 \contentsline {subsubsection}{回归/拟合任务}{25}{subsubsection*.6}%
 \contentsline {subsubsection}{分类任务}{27}{subsubsection*.7}%
