@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.18)  30 JUL 2023 16:46
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.18)  17 APR 2024 11:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -747,17 +747,14 @@ Class ctexbook Warning: Command `\CTEXsetup' is deprecated.
 (ctexbook)              \ctexset { section = { format={\Large \bfseries } } }
 (ctexbook)              is set.
 
-
-Underfull \vbox (badness 1953) has occurred while \output is active []
-
- [4] [5] [6]
+[4] [5]
 File: figures/西瓜书.png Graphic file (type bmp)
 <figures/西瓜书.png>
 File: figures/机器学习实战.png Graphic file (type bmp)
 <figures/机器学习实战.png>
 File: figures/花书.png Graphic file (type bmp)
 <figures/花书.png>
- [7] [8
+ [6] [7] [8
 
 ] (./main.toc
 Underfull \hbox (badness 10000) in paragraph at lines 2--2
@@ -924,7 +921,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--41
 \openout5 = `main.toc'.
 
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.95> not available
-(Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 141.
+(Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 138.
  [10]
 第一章
 File: figures/sigmoid.jpg Graphic file (type bmp)
@@ -940,7 +937,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: figures/拟合情况.jpg Graphic file (type bmp)
 <figures/拟合情况.jpg>
 
-Overfull \hbox (2.03625pt too wide) in paragraph at lines 200--201
+Overfull \hbox (2.03625pt too wide) in paragraph at lines 197--198
  [] 
  []
 
@@ -984,10 +981,10 @@ File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
 
 LaTeX Font Warning: Font shape `TU/FangSong(0)/m/sl' undefined
-(Font)              using `TU/FangSong(0)/m/n' instead on input line 395.
+(Font)              using `TU/FangSong(0)/m/n' instead on input line 392.
 
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <9> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 396.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 393.
 [26] [27]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1003,7 +1000,7 @@ File: figures/对比图象.png Graphic file (type bmp)
 File: figures/BP1.png Graphic file (type bmp)
 <figures/BP1.png>
 
-Overfull \hbox (0.79999pt too wide) in paragraph at lines 551--552
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 548--549
  [][] 
  []
 
@@ -1011,7 +1008,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 551--552
 File: figures/BP2.png Graphic file (type bmp)
 <figures/BP2.png>
 
-Overfull \hbox (0.79999pt too wide) in paragraph at lines 558--559
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 555--556
  [][] 
  []
 
@@ -1019,7 +1016,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 558--559
 File: figures/BP3.png Graphic file (type bmp)
 <figures/BP3.png>
 
-Overfull \hbox (0.79999pt too wide) in paragraph at lines 565--566
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 562--563
  [][] 
  []
 
@@ -1044,19 +1041,19 @@ File: figures/分类任务图像.png Graphic file (type bmp)
 File: figures/拟合情况.jpg Graphic file (type bmp)
 <figures/拟合情况.jpg>
 
-Overfull \hbox (10.12431pt too wide) in paragraph at lines 655--656
+Overfull \hbox (10.12431pt too wide) in paragraph at lines 652--653
  [] 
  []
 
 [40] [41]
-Underfull \hbox (badness 1117) in paragraph at lines 671--672
+Underfull \hbox (badness 1117) in paragraph at lines 668--669
 []\TU/SimSun(0)/m/n/10.95 图 像 是 否 美 观 也 很 重 要，|  模 型 的 效 果 好 也 要 通 过 图 像 表 现
  []
 
 [42]
 第四章
 
-Underfull \hbox (badness 1117) in paragraph at lines 682--683
+Underfull \hbox (badness 1117) in paragraph at lines 679--680
 []\TU/SimSun(0)/m/n/10.95 有 很 多 方 法 可 以 在 基 本 模 型 的 基 础 上 进 行 调 整 改 进，|  比 如
  []
 
@@ -1085,7 +1082,7 @@ File: figures/GAN生成图.png Graphic file (type bmp)
  [55] [56] [57] [58]
 第七章
 
-Package hyperref Warning: Suppressing empty link on input line 891.
+Package hyperref Warning: Suppressing empty link on input line 888.
 
 [59
 
@@ -1094,7 +1091,7 @@ Package hyperref Warning: Suppressing empty link on input line 891.
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 228CF518E76A423BC2ED0384008185A0;3307.
+(rerunfilecheck)             Checksum: 3F3B2D44648870E6CAC7D6199F73923F;3307.
  ) 
 Here is how much of TeX's memory you used:
  22228 strings out of 476683

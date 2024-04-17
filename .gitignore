@@ -1,0 +1,11 @@
+*.abs
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.pdfsync
+*.gz
+*.patch
+main.pdf
+submitting/
